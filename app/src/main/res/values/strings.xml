@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sample</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-0838096323749987/8599662578</string>
+
 </resources>
